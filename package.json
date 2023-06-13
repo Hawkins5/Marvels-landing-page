@@ -4,5 +4,15 @@
     "nodemon": "^2.0.22",
     "react": "^18.2.0",
     "redux": "^4.2.1"
-  }
+  },
+  "name": "marvels-landing-page",
+  "version": "1.0.0",
+  "description": "bootcamp proyect",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
