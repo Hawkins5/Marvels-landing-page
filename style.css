@@ -3,12 +3,12 @@ body {
         padding: 0;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-image: url("https://images2.fanpop.com/image/photos/10600000/Deadpool-Wallpaper-deadpool-10619236-1280-960.jpg");
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-size: cover;
-        background-position: center center;
+        background-position: center;
         background-size: 1200px 800px;
-        background-color: black; 
-        color: #ff0000;
+        background-color: rgb(0, 0, 0); 
+        color: #ffffff;
       }
       
   
@@ -48,14 +48,14 @@ body {
   
   .navbar ul li a {
     text-decoration: none;
-    color: #c9c2c2;
+    color: #ff0202;
     padding: 8px;
     border-radius: 4px;
     transition: background-color 0.3s ease;
   }
   
   .navbar ul li a:hover {
-    background-color: #f44336;
+    background-color: #fcfcfc;
   }
   
   .search-bar {
@@ -114,6 +114,10 @@ body {
   .main-content h2 {
     font-size: 24px;
     margin-bottom: 5px;
+  }
+  .paragraph-section {
+    margin-bottom: 20px;
+    text-align: justify;
   }
   
   .main-content p {
